@@ -45,3 +45,23 @@ a {
   display: flex;
   justify-content: space-between;
 }
+
+ul {
+  margin: 10px;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+  color: black;
+}
+
+li{
+  padding: 15px;
+}
+
+.footer{
+  background-color: rgb(175, 175, 175);
+}
