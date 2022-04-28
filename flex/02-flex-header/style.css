@@ -10,7 +10,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: auto;
+  margin: 10px auto 10px auto;
+  
 }
 
 ul {
@@ -18,12 +19,22 @@ ul {
   list-style-type: none;
   display: flex;
   padding: 0;
+  
 }
 
+li {
+  margin: 10px;
+}
 a {
   font-size: 22px;
   background: white;
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+}
+
+.right-links, .left-links{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
