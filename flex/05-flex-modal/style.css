@@ -89,3 +89,7 @@ button.cancel {
 .text {
   font-weight: 500;
 }
+
+.modal, .content{
+  gap: 15px;
+}
