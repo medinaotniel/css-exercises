@@ -52,10 +52,11 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 a {
-  color: black;
+  color: rgb(82, 82, 82);
 }
 
 li{
@@ -63,11 +64,15 @@ li{
 }
 
 .footer{
-  background-color: rgb(175, 175, 175);
+  background-color: lightgray;
 }
 
 .content {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+button {
+  padding: 10px;
 }
