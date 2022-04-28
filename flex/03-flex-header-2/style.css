@@ -14,12 +14,12 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
-  padding: 10px;
+  padding: 8px;
 }
 .header-left, .header-right{
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 16px;
 }
 .profile-image {
   background: rebeccapurple;
