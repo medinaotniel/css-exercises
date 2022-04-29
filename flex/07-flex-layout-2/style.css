@@ -28,6 +28,7 @@ body {
 .card {
   width: 300px;
   flex-shrink: 0;
+  padding: 15px;
 }
 .container {
   display: flex;
@@ -39,9 +40,9 @@ body {
   height: 72px;
   background: #eee;
   color: rgb(51, 83, 180);
-  text-align: center;
-  box-sizing: border-box;
-  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
