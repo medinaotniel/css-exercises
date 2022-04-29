@@ -37,6 +37,9 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 30px;
 }
 
 .sidebar {
