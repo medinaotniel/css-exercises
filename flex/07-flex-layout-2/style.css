@@ -11,10 +11,11 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
-  padding-top: 25px;
-  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
-
+ 
 .middle {
   display: flex;
   flex: 1;
