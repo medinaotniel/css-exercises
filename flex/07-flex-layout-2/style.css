@@ -15,7 +15,12 @@ body {
   align-items: center;
   justify-content: flex-start;
 }
- 
+
+.header-text{
+  font-size: 30px;
+  padding: 15px;
+  font-weight: 1000;
+}
 .middle {
   display: flex;
   flex: 1;
