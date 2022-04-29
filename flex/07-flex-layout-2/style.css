@@ -41,9 +41,20 @@ body {
 
 .sidebar {
   width: 300px;
-  background: royalblue;
+  background: royalblue; 
 }
-
+ul {
+  margin-top: 40px;
+}
+li{
+  list-style-type: none;
+  margin-top: 25px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
